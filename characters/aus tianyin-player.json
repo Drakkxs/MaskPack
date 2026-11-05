@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-111
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				167,
+				-25
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-90
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aus tianyin",
+	"position": [
+		-180,
+		200
+	],
+	"healthicon": "icon-aus ty",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		122,
+		12
+	],
+	"camera_position": [
+		50,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "XIdle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"fps": 16,
+			"anim": "idle-loop",
+			"indices": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			],
+			"name": "XIdle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				368,
+				129
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "XLeft"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				156,
+				-195
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "XDown"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				144,
+				168
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "XUp"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				46,
+				-19
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "XRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CyclesEncoreLordX",
+	"position": [
+		-110,
+		-90
+	],
+	"healthicon": "x-encore",
+	"flip_x": false,
+	"healthbar_colors": [
+		36,
+		52,
+		61
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6,
+	"scale": 1
+}

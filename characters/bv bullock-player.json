@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-15,
+				-415
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				-85,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-12,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				156,
+				-153
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				113,
+				-197
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bv bullock",
+	"position": [
+		-70,
+		-40
+	],
+	"healthicon": "icon-bullock",
+	"flip_x": true,
+	"healthbar_colors": [
+		71,
+		40,
+		115
+	],
+	"camera_position": [
+		-40,
+		-50
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1
+}

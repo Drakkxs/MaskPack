@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				249,
+				40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				191,
+				87
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				222,
+				132
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				423,
+				244
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				371,
+				112
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/michael imp",
+	"position": [
+		360,
+		-50
+	],
+	"healthicon": "michaelimp",
+	"flip_x": false,
+	"healthbar_colors": [
+		108,
+		15,
+		50
+	],
+	"camera_position": [
+		-130,
+		260
+	],
+	"sing_duration": 7,
+	"scale": 1
+}
