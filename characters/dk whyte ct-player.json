@@ -1,89 +1,92 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				29,
+				109,
 				-24
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				83,
+				103,
 				-20
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-14,
+				346,
 				-22
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				157,
+				-3,
 				105
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-12,
 				-6
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 28,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-13,
+				137,
 				7
 			],
-			"loop": false,
-			"fps": 36,
 			"anim": "shoot",
-			"indices": [],
-			"name": "shoot"
+			"fps": 36,
+			"name": "shoot",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-67,
+				-7,
 				-3
 			],
-			"anim": "ready",
+			"loop": false,
 			"fps": 30,
-			"name": "ready",
-			"indices": []
+			"anim": "ready",
+			"indices": [],
+			"name": "ready"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/dk whyte",
 	"position": [
 		10,
 		-140
 	],
+	"speaker": null,
 	"healthicon": "icon-dk",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -96,5 +99,6 @@
 		60
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.8
 }

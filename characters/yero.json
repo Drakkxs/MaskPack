@@ -1,78 +1,81 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-11,
 				10
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-20,
 				57
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				213,
 				-84
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-81,
 				-7
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-20,
 				-174
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				3,
 				12
 			],
-			"anim": "death",
+			"loop": false,
 			"fps": 24,
-			"name": "hurt",
-			"indices": []
+			"anim": "lose",
+			"indices": [],
+			"name": "hurt"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/yero",
 	"position": [
-		-90,
-		10
+		-10,
+		-60
 	],
+	"speaker": null,
 	"healthicon": "icon-yero",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -85,5 +88,6 @@
 		80
 	],
 	"sing_duration": 8,
+	"dead_character": null,
 	"scale": 0.8
 }

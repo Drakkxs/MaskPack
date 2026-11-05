@@ -1,13 +1,14 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				61,
-				-278
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				81,
+				-168
+			],
 			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle",
 			"indices": [
 				11,
 				12,
@@ -20,61 +21,61 @@
 				19,
 				20,
 				21
-			],
-			"name": "idle"
+			]
 		},
 		{
-			"offsets": [
-				-26,
-				-361
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				264,
+				-261
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-26,
-				-382
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				64,
+				-282
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				186,
-				-295
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				6,
+				-185
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				338,
-				-239
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				78,
+				-139
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				62,
-				-279
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				79,
+				-169
+			],
 			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle",
 			"indices": [
 				1,
 				2,
@@ -86,27 +87,29 @@
 				8,
 				9,
 				10
-			],
-			"name": "idle"
+			]
 		},
 		{
-			"loop": false,
 			"offsets": [
-				37,
-				-275
+				53,
+				-165
 			],
-			"anim": "liveReaction",
+			"loop": false,
 			"fps": 24,
-			"name": "what",
-			"indices": []
+			"anim": "liveReaction",
+			"indices": [],
+			"name": "what"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/gerun impostor",
 	"position": [
 		-20,
 		-300
 	],
+	"speaker": null,
 	"healthicon": "gerunimpostor",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -119,5 +122,6 @@
 		260
 	],
 	"sing_duration": 7,
+	"dead_character": null,
 	"scale": 0.9
 }

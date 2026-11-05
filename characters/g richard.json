@@ -1,89 +1,92 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				35,
 				-12
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-33,
+				17,
 				157
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				69,
+				-1,
 				90
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-71,
+				49,
 				56
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-59,
+				-109,
 				76
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-59,
+				-109,
 				76
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "danceLeft",
-			"loop": false,
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-59,
+				-109,
 				76
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "danceRight",
-			"loop": false,
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/g richard",
 	"position": [
-		-220,
+		-210,
 		-50
 	],
+	"speaker": null,
 	"healthicon": "icon-richard play",
 	"flip_x": true,
 	"healthbar_colors": [
@@ -92,9 +95,10 @@
 		0
 	],
 	"camera_position": [
-		-220,
+		0,
 		70
 	],
 	"sing_duration": 6.1,
+	"dead_character": null,
 	"scale": 0.8
 }

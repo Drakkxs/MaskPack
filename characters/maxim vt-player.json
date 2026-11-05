@@ -54,25 +54,95 @@
 			"fps": 24,
 			"name": "sing up",
 			"indices": []
+		},
+				{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "aidle"
+		},
+		{
+			"offsets": [
+				47,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "asing right"
+		},
+		{
+			"offsets": [
+				187,
+				-56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "asing left"
+		},
+		{
+			"offsets": [
+				10,
+				-147
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "asing down"
+		},
+		{
+			"offsets": [
+				60,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "asing up"
+		},
+		{
+			"offsets": [
+				57,
+				15
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "taunt",
+			"indices": [],
+			"name": "scream"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
-	"image": "characters/maxim vt",
+	"image": "characters/maxim vt,characters/maxim vt2",
 	"position": [
-		110,
-		-20
+		100,
+		90
 	],
+	"speaker": null,
 	"healthicon": "maxim",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		255,
 		40,
 		60
 	],
 	"camera_position": [
-		-170,
-		100
+		-40,
+		-80
 	],
 	"sing_duration": 4,
+	"dead_character": null,
 	"scale": 1
 }

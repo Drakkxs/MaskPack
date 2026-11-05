@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-82,
 				-220
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-209,
-				-238
+				211,
+				-218
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-187,
-				-566
+				-137,
+				-536
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				60,
+				-160,
 				-264
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-94,
+				-64,
 				-140
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/gerun dt",
 	"position": [
-		-330,
+		-230,
 		-210
 	],
+	"speaker": null,
 	"healthicon": "gerun",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -70,9 +73,10 @@
 		27
 	],
 	"camera_position": [
-		110,
+		-130,
 		320
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.8
 }

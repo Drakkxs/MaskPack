@@ -1,89 +1,92 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				29,
-				-24
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				119,
+				-4
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				83,
-				-20
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				103,
+				-10
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-14,
-				-22
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				356,
+				18
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
-		},
-		{
-			"offsets": [
-				157,
-				105
-			],
-			"loop": false,
 			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				135
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-12,
-				-6
-			],
 			"loop": false,
-			"fps": 28,
+			"offsets": [
+				8,
+				24
+			],
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-13,
-				7
-			],
-			"anim": "shoot",
-			"fps": 36,
-			"name": "shoot",
+			"fps": 28,
+			"name": "idle",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-67,
-				-3
+				157,
+				36
 			],
 			"loop": false,
-			"fps": 30,
-			"anim": "ready",
+			"fps": 36,
+			"anim": "shoot",
 			"indices": [],
-			"name": "ready"
+			"name": "shoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				27
+			],
+			"anim": "ready",
+			"fps": 30,
+			"name": "ready",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/dk whyte",
 	"position": [
 		10,
 		-140
 	],
+	"speaker": null,
 	"healthicon": "icon-whyte",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -96,5 +99,6 @@
 		60
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.8
 }

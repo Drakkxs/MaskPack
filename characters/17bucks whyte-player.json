@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-16,
-				-170
+				54,
+				-160
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				56,
+				26,
 				-26
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				7,
+				17,
 				42
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-67,
+				133,
 				-49
 			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "sing right",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-11,
-				-1
-			],
 			"loop": false,
 			"fps": 24,
-			"anim": "idle",
+			"anim": "singRIGHT",
 			"indices": [],
-			"name": "idle"
+			"name": "sing right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/17bucks whyte",
 	"position": [
 		60,
 		-50
 	],
+	"speaker": null,
 	"healthicon": "icon-17whyte",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +77,6 @@
 		40
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.9
 }

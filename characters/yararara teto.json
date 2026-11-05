@@ -1,67 +1,125 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				-11,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				-262
+			],
+			"anim": "singDOWN",
+			"fps": 30,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				-31
+			],
+			"anim": "singLEFT",
+			"fps": 30,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				32,
+				85
+			],
+			"anim": "singUP",
+			"fps": 30,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				-102
+			],
+			"anim": "singRIGHT",
+			"fps": 30,
+			"name": "sing right",
+			"indices": []
+		},
+		{
 			"loop": false,
 			"offsets": [
 				-11,
 				-1
 			],
-			"anim": "idle",
+			"anim": "idle-alt",
 			"fps": 24,
-			"name": "idle",
+			"name": "aidle",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-24,
-				-262
+				-4,
+				-20
 			],
-			"indices": [],
-			"fps": 30,
-			"anim": "singDOWN",
 			"loop": false,
-			"name": "sing down"
+			"fps": 30,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "asing down"
 		},
 		{
 			"offsets": [
-				108,
-				-31
+				38,
+				-13
 			],
-			"indices": [],
-			"fps": 30,
-			"anim": "singLEFT",
 			"loop": false,
-			"name": "sing left"
+			"fps": 30,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "asing left"
 		},
 		{
 			"offsets": [
-				32,
-				85
+				-8,
+				39
 			],
-			"indices": [],
-			"fps": 30,
-			"anim": "singUP",
 			"loop": false,
-			"name": "sing up"
+			"fps": 30,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "asing up"
 		},
 		{
 			"offsets": [
-				57,
-				-102
+				-17,
+				-48
 			],
-			"indices": [],
-			"fps": 30,
-			"anim": "singRIGHT",
 			"loop": false,
-			"name": "sing right"
+			"fps": 30,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "asing right"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
-	"image": "characters/yararara teto",
+	"image": "characters/yararara teto,characters/yararara teto2",
 	"position": [
 		-30,
-		80
+		20
 	],
+	"speaker": null,
 	"healthicon": "icon-yararara-teto",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +132,6 @@
 		70
 	],
 	"sing_duration": 5,
+	"dead_character": null,
 	"scale": 0.9
 }

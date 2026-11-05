@@ -1,78 +1,136 @@
 {
 	"animations": [
 		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				-329
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				-31,
+				-24
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				7,
+				53
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				-86,
+				-177
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				-26
+			],
+			"anim": "change",
+			"fps": 28,
+			"name": "change",
+			"indices": []
+		},
+		{
 			"offsets": [
 				-11,
 				-1
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "idle",
+			"anim": "idle-alt",
 			"indices": [],
-			"name": "idle"
+			"name": "aidle"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				110,
-				-329
+				148,
+				-319
 			],
-			"anim": "singDOWN",
+			"anim": "singDOWN-alt",
 			"fps": 30,
-			"name": "sing down",
+			"name": "asing down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-31,
-				-24
+				226,
+				-108
 			],
-			"anim": "singLEFT",
+			"anim": "singLEFT-alt",
 			"fps": 30,
-			"name": "sing left",
+			"name": "asing left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				7,
-				53
+				57,
+				58
 			],
-			"anim": "singUP",
+			"anim": "singUP-alt",
 			"fps": 30,
-			"name": "sing up",
+			"name": "asing up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-86,
+				-45,
 				-177
 			],
-			"anim": "singRIGHT",
+			"anim": "singRIGHT-alt",
 			"fps": 30,
-			"name": "sing right",
+			"name": "asing right",
 			"indices": []
-		},
-		{
-			"offsets": [
-				26,
-				-26
-			],
-			"indices": [],
-			"fps": 28,
-			"anim": "change",
-			"loop": false,
-			"name": "change"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
-	"image": "characters/yararara bf",
+	"image": "characters/yararara bf,characters/yararara bf2",
 	"position": [
-		-120,
-		40
+		-90,
+		10
 	],
+	"speaker": null,
 	"healthicon": "icon-yararara-bf",
 	"flip_x": true,
 	"healthbar_colors": [
@@ -85,5 +143,6 @@
 		0
 	],
 	"sing_duration": 5,
+	"dead_character": null,
 	"scale": 0.9
 }

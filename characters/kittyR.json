@@ -1,89 +1,92 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				167,
 				20
 			],
-			"anim": "attack",
+			"loop": false,
 			"fps": 24,
-			"name": "attack",
-			"indices": []
+			"anim": "taunt-alt",
+			"indices": [],
+			"name": "attack"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				100,
 				-66
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				19,
 				11
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				117,
 				23
 			],
-			"anim": "laugh",
+			"loop": false,
 			"fps": 24,
-			"name": "laugh",
-			"indices": []
+			"anim": "taunt",
+			"indices": [],
+			"name": "laugh"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				170,
 				21
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				15,
 				-9
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				188,
 				32
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/HellonkittyR",
 	"position": [
-		0,
-		0
+		90,
+		360
 	],
+	"speaker": null,
 	"healthicon": "kitty3",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -92,9 +95,10 @@
 		40
 	],
 	"camera_position": [
-		0,
+		-70,
 		0
 	],
 	"sing_duration": 6.1,
+	"dead_character": null,
 	"scale": 1
 }

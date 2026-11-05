@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				0,
+				-100,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				30,
+				10,
 				-9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				229,
+				-61,
 				-11
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				131,
+				1,
 				44
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-25,
+				225,
 				-9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/angle whyte",
 	"position": [
 		-100,
 		0
 	],
+	"speaker": null,
 	"healthicon": "icon-whyte",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +77,6 @@
 		40
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.9
 }

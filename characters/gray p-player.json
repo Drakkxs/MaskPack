@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-63,
-				-246
+				-13,
+				-286
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				-70,
+				-10,
 				-53
 			],
 			"loop": false,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				-61,
+				29,
 				-30
 			],
 			"loop": false,
@@ -56,12 +56,15 @@
 			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/gray p",
 	"position": [
-		-100,
-		60
+		-140,
+		-20
 	],
+	"speaker": null,
 	"healthicon": "icon-gray1",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -70,9 +73,10 @@
 		110
 	],
 	"camera_position": [
-		120,
+		10,
 		210
 	],
 	"sing_duration": 7.99999999999999,
-	"scale": 0.8
+	"dead_character": null,
+	"scale": 1
 }

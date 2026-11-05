@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				-1
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-5,
 				-249
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-38,
 				-52
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-36,
 				26
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				-28
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/hs miku",
 	"position": [
 		-200,
-		50
+		-10
 	],
+	"speaker": null,
 	"healthicon": "icon-hs miku",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +77,6 @@
 		30
 	],
 	"sing_duration": 7,
+	"dead_character": null,
 	"scale": 0.8
 }

@@ -3,7 +3,7 @@
 		{
 			"offsets": [
 				230,
-				571
+				651
 			],
 			"loop": false,
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"offsets": [
 				60,
-				-90
+				-50
 			],
 			"loop": true,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				351,
-				564
+				611,
+				614
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-326,
-				109
+				1104,
+				179
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				666,
-				346
+				146,
+				426
 			],
 			"loop": false,
 			"fps": 24,
@@ -56,12 +56,15 @@
 			"name": "sing left"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/bullock end",
 	"position": [
 		-390,
 		-330
 	],
+	"speaker": null,
 	"healthicon": "bullock",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -70,9 +73,10 @@
 		102
 	],
 	"camera_position": [
-		-253,
-		140
+		1157,
+		-770
 	],
 	"sing_duration": 6,
+	"dead_character": null,
 	"scale": 3.1
 }

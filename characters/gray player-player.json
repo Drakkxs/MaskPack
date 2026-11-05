@@ -4,7 +4,7 @@
 			"loop": false,
 			"offsets": [
 				-43,
-				-91
+				-131
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-100,
-				84
+				-140,
+				134
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -72,8 +72,8 @@
 		},
 		{
 			"offsets": [
-				195,
-				16
+				265,
+				36
 			],
 			"loop": false,
 			"fps": 24,
@@ -83,8 +83,8 @@
 		},
 		{
 			"offsets": [
-				-106,
-				120
+				-156,
+				190
 			],
 			"loop": false,
 			"fps": 24,
@@ -93,12 +93,15 @@
 			"name": "sing left"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/gray",
 	"position": [
 		-380,
-		90
+		-60
 	],
+	"speaker": null,
 	"healthicon": "icon-gray1",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -111,5 +114,6 @@
 		230
 	],
 	"sing_duration": 7.99999999999999,
-	"scale": 0.6
+	"dead_character": null,
+	"scale": 1
 }

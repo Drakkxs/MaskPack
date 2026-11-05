@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				30,
+				31,
 				-9
 			],
 			"loop": false,
@@ -24,18 +24,7 @@
 		},
 		{
 			"offsets": [
-				229,
-				-11
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
-		},
-		{
-			"offsets": [
-				131,
+				121,
 				44
 			],
 			"loop": false,
@@ -45,23 +34,37 @@
 			"name": "sing up"
 		},
 		{
-			"offsets": [
-				-25,
-				-9
-			],
 			"loop": false,
+			"offsets": [
+				-36,
+				-10
+			],
+			"anim": "singLEFT",
 			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				231,
+				-10
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/angle whyte",
 	"position": [
 		-100,
 		0
 	],
+	"speaker": null,
 	"healthicon": "icon-whyte",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +77,6 @@
 		40
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.9
 }

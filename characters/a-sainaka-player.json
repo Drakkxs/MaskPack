@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-12,
-				-2
+				8,
+				48
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				50,
-				-131
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "sing down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				84,
-				-60
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "sing left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-26,
-				78
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "sing up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-79,
+				120,
 				-71
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				4,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				54,
+				128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				141,
+				-21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/a-sainaka",
 	"position": [
 		80,
 		80
 	],
+	"speaker": null,
 	"healthicon": "icon-sainaka",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +77,6 @@
 		100
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.9
 }

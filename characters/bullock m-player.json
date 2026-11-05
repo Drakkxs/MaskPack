@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-10,
-				0
+				-90,
+				30
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				-26
+				-103,
+				4
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				27,
-				14
+				-133,
+				44
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				-17,
-				5
+				-47,
+				35
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				-12,
-				17
+				-42,
+				47
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,22 +68,25 @@
 		},
 		{
 			"offsets": [
-				-13,
-				14
+				-83,
+				24
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "tr",
-			"loop": false,
+			"indices": [],
 			"name": "turn round"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/bullock m",
 	"position": [
 		-60,
 		-40
 	],
+	"speaker": null,
 	"healthicon": "icon-bullock",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -92,9 +95,10 @@
 		255
 	],
 	"camera_position": [
-		0,
-		0
+		-100,
+		-50
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.8
 }

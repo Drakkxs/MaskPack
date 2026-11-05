@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				249,
 				40
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				191,
 				87
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				222,
 				132
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				423,
 				244
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				371,
 				112
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/michael imp",
 	"position": [
-		360,
-		-50
+		150,
+		-150
 	],
+	"speaker": null,
 	"healthicon": "michaelimp",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -70,9 +73,10 @@
 		50
 	],
 	"camera_position": [
-		-130,
-		260
+		-290,
+		-90
 	],
 	"sing_duration": 7,
+	"dead_character": null,
 	"scale": 1
 }

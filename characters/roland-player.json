@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-11,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
-			"offsets": [
-				190,
-				-303
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				84,
+				-220,
+				-293
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-146,
 				-35
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				6,
+				-4,
 				46
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-41,
+				159,
 				-71
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/roland",
 	"position": [
-		-60,
-		50
+		-100,
+		-40
 	],
+	"speaker": null,
 	"healthicon": "icon-roland",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +77,6 @@
 		40
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.9
 }

@@ -1,122 +1,125 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
-			"offsets": [
-				113,
-				-75
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				37,
-				-137
-			],
 			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
-		},
-		{
-			"offsets": [
-				-71,
-				30
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
-		},
-		{
-			"offsets": [
-				-53,
-				-50
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
-		},
-		{
-			"offsets": [
-				73,
-				-71
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "left miss"
-		},
-		{
-			"offsets": [
-				-2,
-				-140
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "down miss"
-		},
-		{
 			"offsets": [
 				-67,
+				-75
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-73,
+				-137
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-71
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-92,
+				-140
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
 				3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "up miss"
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-79,
+				61,
 				-58
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "right miss"
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-14,
 				-9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "hey"
+			"fps": 24,
+			"name": "hey",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/little whyte",
 	"position": [
-		-100,
-		120
+		-50,
+		30
 	],
+	"speaker": null,
 	"healthicon": "whyteplayer",
 	"flip_x": true,
 	"healthbar_colors": [
@@ -129,5 +132,6 @@
 		200
 	],
 	"sing_duration": 8,
+	"dead_character": null,
 	"scale": 0.9
 }

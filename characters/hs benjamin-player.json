@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				94,
-				-13
+				122,
+				-12
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				111,
+				218,
 				51
 			],
 			"anim": "singUP",
@@ -23,45 +23,48 @@
 			"indices": []
 		},
 		{
-			"loop": false,
-			"offsets": [
-				316,
-				-13
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "sing left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				66,
-				-11
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "sing right",
-			"indices": []
-		},
-		{
 			"loop": true,
 			"offsets": [
-				0,
+				100,
 				0
 			],
 			"anim": "idle",
 			"fps": 16,
 			"name": "idle",
 			"indices": []
+		},
+		{
+			"offsets": [
+				192,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing right"
+		},
+		{
+			"offsets": [
+				141,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing left"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/hs benjamin",
 	"position": [
-		-50,
-		-50
+		-130,
+		-110
 	],
+	"speaker": null,
 	"healthicon": "hs benjamin",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -70,9 +73,10 @@
 		80
 	],
 	"camera_position": [
-		-180,
-		-60
+		0,
+		-90
 	],
 	"sing_duration": 8.99999999999999,
+	"dead_character": null,
 	"scale": 1
 }

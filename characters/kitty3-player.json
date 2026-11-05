@@ -7,13 +7,13 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "attack",
+			"anim": "taunt-alt",
 			"indices": [],
 			"name": "attack"
 		},
 		{
 			"offsets": [
-				100,
+				150,
 				-66
 			],
 			"loop": false,
@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				19,
+				149,
 				11
 			],
 			"loop": false,
@@ -40,13 +40,13 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "laugh",
+			"anim": "taunt",
 			"indices": [],
 			"name": "laugh"
 		},
 		{
 			"offsets": [
-				177,
+				77,
 				21
 			],
 			"loop": false,
@@ -57,7 +57,7 @@
 		},
 		{
 			"offsets": [
-				15,
+				285,
 				-9
 			],
 			"loop": false,
@@ -68,7 +68,7 @@
 		},
 		{
 			"offsets": [
-				190,
+				80,
 				37
 			],
 			"loop": false,
@@ -78,12 +78,15 @@
 			"name": "up"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/Hellonkitty",
 	"position": [
-		0,
-		0
+		150,
+		350
 	],
+	"speaker": null,
 	"healthicon": "kitty3",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -96,5 +99,6 @@
 		0
 	],
 	"sing_duration": 6.1,
+	"dead_character": null,
 	"scale": 1
 }

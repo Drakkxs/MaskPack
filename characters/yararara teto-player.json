@@ -13,55 +13,113 @@
 		},
 		{
 			"offsets": [
-				-24,
+				226,
 				-262
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 30,
 			"anim": "singDOWN",
-			"loop": false,
+			"indices": [],
 			"name": "sing down"
 		},
 		{
 			"offsets": [
-				108,
+				-32,
 				-31
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 30,
 			"anim": "singLEFT",
-			"loop": false,
+			"indices": [],
 			"name": "sing left"
 		},
 		{
 			"offsets": [
-				32,
+				-68,
 				85
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 30,
 			"anim": "singUP",
-			"loop": false,
+			"indices": [],
 			"name": "sing up"
 		},
 		{
 			"offsets": [
-				57,
+				147,
 				-102
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 30,
 			"anim": "singRIGHT",
-			"loop": false,
+			"indices": [],
 			"name": "sing right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "aidle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-4,
+				-20
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "asing down"
+		},
+		{
+			"offsets": [
+				-22,
+				-13
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "asing left"
+		},
+		{
+			"offsets": [
+				-8,
+				39
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "asing up"
+		},
+		{
+			"offsets": [
+				163,
+				-48
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "asing right"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/yararara teto",
 	"position": [
 		-30,
-		80
+		40
 	],
+	"speaker": null,
 	"healthicon": "icon-yararara-teto",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +132,6 @@
 		70
 	],
 	"sing_duration": 5,
+	"dead_character": null,
 	"scale": 0.9
 }

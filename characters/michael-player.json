@@ -1,79 +1,80 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				249,
 				-190
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-101
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "hey",
+			"indices": []
+		},
+		{
+			"offsets": [
+				617,
+				-146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		},
+		{
+			"offsets": [
+				255,
+				-228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				119,
+				-134
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				196,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				249,
+				-190
+			],
+			"anim": "idle-loop",
 			"fps": 24,
 			"name": "idle",
-			"indices": []
-		},
-		{
-			"offsets": [
-				377,
-				-131
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "hey"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				247,
-				-166
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "sing right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				245,
-				-248
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "sing down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				449,
-				-164
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "sing left",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				376,
-				-32
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "sing up",
-			"indices": []
-		},
-		{
-			"offsets": [
-				249,
-				-190
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle-loop",
 			"indices": [
 				9,
 				10,
@@ -82,16 +83,18 @@
 				13,
 				14,
 				15
-			],
-			"name": "idle"
+			]
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/michael",
 	"position": [
 		180,
 		-170
 	],
+	"speaker": null,
 	"healthicon": "michael",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -100,9 +103,10 @@
 		47
 	],
 	"camera_position": [
-		-190,
-		260
+		300,
+		140
 	],
 	"sing_duration": 7,
+	"dead_character": null,
 	"scale": 0.9
 }

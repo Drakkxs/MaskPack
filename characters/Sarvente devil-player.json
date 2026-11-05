@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-1,
-				-1
+				69
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-147,
-				-128
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-27,
+				-188
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
-		},
-		{
-			"offsets": [
-				-84,
-				-6
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-124,
+				24
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				-42,
-				-74
+				16
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-151,
+				19,
 				-35
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/Sarvente devil",
 	"position": [
-		-420,
-		-130
+		-450,
+		-180
 	],
+	"speaker": null,
 	"healthicon": "icon-sarv",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +77,6 @@
 		90
 	],
 	"sing_duration": 6,
+	"dead_character": null,
 	"scale": 0.9
 }

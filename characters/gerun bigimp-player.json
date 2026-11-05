@@ -1,67 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": true,
 			"offsets": [
 				322,
 				140
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				137,
+				747,
 				249
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				260,
 				167
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				485,
+				305,
 				277
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				474,
 				390
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/gerun bigimp",
 	"position": [
-		260,
-		250
+		120,
+		-140
 	],
+	"speaker": null,
 	"healthicon": "gerunbigimp2",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -74,5 +77,6 @@
 		-190
 	],
 	"sing_duration": 6.1,
+	"dead_character": null,
 	"scale": 1.2
 }

@@ -1,78 +1,147 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-12,
 				-2
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				79,
 				-83
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				50,
+				-50,
 				-17
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				87,
-				22
+				-13,
+				12
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-62,
+				78,
 				-38
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-87
+			],
+			"anim": "yeah",
+			"fps": 24,
+			"name": "yeah",
 			"indices": []
 		},
 		{
 			"offsets": [
-				46,
-				-137
+				-12,
+				-2
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "yeah",
+			"anim": "idle-alt",
 			"indices": [],
-			"name": "yeah"
+			"name": "idlh"
+		},
+		{
+			"offsets": [
+				79,
+				-83
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "sing dowh"
+		},
+		{
+			"offsets": [
+				-70,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "sing lefh"
+		},
+		{
+			"offsets": [
+				-13,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "sing uh"
+		},
+		{
+			"offsets": [
+				108,
+				-38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "sing righh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-87
+			],
+			"anim": "yeah-alt",
+			"fps": 24,
+			"name": "yeah",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
-	"image": "characters/Brain Rot teto",
+	"image": "characters/Brain Rot teto,characters/Brain Rot teto2",
 	"position": [
 		40,
 		50
 	],
+	"speaker": null,
 	"healthicon": "icon-br teto",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -85,5 +154,6 @@
 		30
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.8
 }

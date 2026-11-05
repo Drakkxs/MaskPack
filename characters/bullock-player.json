@@ -2,7 +2,7 @@
 	"animations": [
 		{
 			"offsets": [
-				152,
+				62,
 				229
 			],
 			"loop": false,
@@ -13,7 +13,7 @@
 		},
 		{
 			"offsets": [
-				288,
+				-82,
 				103
 			],
 			"loop": false,
@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				227,
+				-143,
 				-107
 			],
 			"loop": false,
@@ -35,7 +35,7 @@
 		},
 		{
 			"offsets": [
-				2,
+				422,
 				-28
 			],
 			"loop": false,
@@ -46,22 +46,25 @@
 		},
 		{
 			"offsets": [
-				-9,
+				-239,
 				0
 			],
-			"indices": [],
+			"loop": true,
 			"fps": 16,
 			"anim": "idle",
-			"loop": true,
+			"indices": [],
 			"name": "idle"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/bullock",
 	"position": [
 		-240,
 		-120
 	],
+	"speaker": null,
 	"healthicon": "icon-bullock",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -70,9 +73,10 @@
 		80
 	],
 	"camera_position": [
-		0,
+		-250,
 		0
 	],
 	"sing_duration": 8.99999999999999,
+	"dead_character": null,
 	"scale": 0.8
 }

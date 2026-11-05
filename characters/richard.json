@@ -1,100 +1,103 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-9,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-46,
 				-178
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-47,
 				32
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				202,
 				-34
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-131,
 				-59
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-48,
 				7
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "afraid",
-			"indices": [],
-			"name": "afraid"
+			"fps": 24,
+			"name": "afraid",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-103,
 				-17
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "ready",
-			"indices": [],
-			"name": "ready"
+			"fps": 24,
+			"name": "ready",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-26,
 				9
 			],
-			"anim": "shoot",
+			"loop": false,
 			"fps": 30,
-			"name": "shoot",
-			"indices": []
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/richard",
 	"position": [
-		-190,
-		10
+		-90,
+		-70
 	],
+	"speaker": null,
 	"healthicon": "icon-richard",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -107,5 +110,6 @@
 		0
 	],
 	"sing_duration": 6.1,
+	"dead_character": null,
 	"scale": 0.8
 }

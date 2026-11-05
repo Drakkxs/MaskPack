@@ -1,111 +1,114 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				6,
 				-12
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				70,
+				-10,
 				-34
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				7,
 				-40
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-97,
+				73,
 				68
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-126,
+				164,
 				51
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				39,
+				-11,
 				-33
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "left miss",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "left miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-12,
 				-44
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "down miss",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-120,
+				40,
 				51
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "up miss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-127,
+				93,
 				47
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "right miss",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "right miss"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/pinka play",
 	"position": [
-		-130,
-		40
+		-40,
+		0
 	],
+	"speaker": null,
 	"healthicon": "icon-pinka play",
 	"flip_x": true,
 	"healthbar_colors": [
@@ -118,5 +121,6 @@
 		220
 	],
 	"sing_duration": 8,
+	"dead_character": null,
 	"scale": 0.7
 }

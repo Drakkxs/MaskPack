@@ -67,12 +67,15 @@
 			"name": "idle"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/th part2 gray",
 	"position": [
-		-80,
-		90
+		-230,
+		160
 	],
+	"speaker": null,
 	"healthicon": "icon-th gray play",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -81,9 +84,10 @@
 		110
 	],
 	"camera_position": [
-		110,
-		-10
+		-110,
+		50
 	],
 	"sing_duration": 7.99999999999999,
-	"scale": 0.9
+	"dead_character": null,
+	"scale": 1
 }

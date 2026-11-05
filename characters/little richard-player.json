@@ -1,122 +1,125 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-6,
 				-50
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				102,
 				-143
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				37,
 				-181
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-18,
 				14
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-101,
 				-130
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				83,
 				-136
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "left miss"
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				14,
 				-185
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "down miss"
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-37,
 				-2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUPmiss",
-			"indices": [],
-			"name": "up miss"
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-100,
 				-134
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "right miss"
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-37,
 				-35
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "hey"
+			"fps": 24,
+			"name": "hey",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/little richard",
 	"position": [
-		-100,
-		170
+		-60,
+		100
 	],
+	"speaker": null,
 	"healthicon": "richardplayer",
 	"flip_x": true,
 	"healthbar_colors": [
@@ -129,5 +132,6 @@
 		200
 	],
 	"sing_duration": 8,
+	"dead_character": null,
 	"scale": 0.9
 }

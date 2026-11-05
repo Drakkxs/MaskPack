@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				-9,
-				0
+				91,
+				60
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-66,
-				-187
+				67,
+				-147
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-67,
-				25
+				94,
+				95
 			],
 			"loop": false,
 			"fps": 24,
@@ -34,45 +34,48 @@
 			"name": "sing up"
 		},
 		{
-			"offsets": [
-				12,
-				-42
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
-		},
-		{
-			"offsets": [
-				-74,
-				-133
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
-		},
-		{
 			"loop": false,
 			"offsets": [
-				-8,
-				0
+				115,
+				65
 			],
 			"anim": "hey",
 			"fps": 24,
 			"name": "hey",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				238,
+				-89
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				94,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/cliff",
 	"position": [
-		40,
+		-10,
 		50
 	],
+	"speaker": null,
 	"healthicon": "icon-cliff",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -81,9 +84,10 @@
 		102
 	],
 	"camera_position": [
-		0,
-		80
+		70,
+		-100
 	],
 	"sing_duration": 6.1,
-	"scale": 0.8
+	"dead_character": null,
+	"scale": 0.9
 }

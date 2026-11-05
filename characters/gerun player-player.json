@@ -1,47 +1,46 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-82,
 				-220
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-107,
 				-332
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				15,
 				-125
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-98,
 				-187
 			],
-			"anim": "bopR",
+			"loop": false,
 			"fps": 24,
-			"name": "dance idle",
+			"anim": "bopR",
 			"indices": [
 				19,
 				20,
@@ -54,17 +53,17 @@
 				27,
 				28,
 				29
-			]
+			],
+			"name": "dance idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-99,
 				-187
 			],
-			"anim": "bopL",
+			"loop": false,
 			"fps": 24,
-			"name": "dance idle",
+			"anim": "bopL",
 			"indices": [
 				3,
 				4,
@@ -79,16 +78,18 @@
 				13,
 				14,
 				15
-			]
+			],
+			"name": "dance idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-116,
 				-214
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "notice",
+			"fps": 24,
+			"name": "wave",
 			"indices": [
 				0,
 				1,
@@ -96,17 +97,17 @@
 				3,
 				4,
 				5
-			],
-			"name": "wave"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-116,
 				-214
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "handbye",
+			"fps": 24,
+			"name": "wave",
 			"indices": [
 				14,
 				15,
@@ -116,17 +117,17 @@
 				19,
 				20,
 				21
-			],
-			"name": "wave"
+			]
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-115,
 				-215
 			],
-			"loop": true,
-			"fps": 24,
 			"anim": "wave",
+			"fps": 24,
+			"name": "wave",
 			"indices": [
 				6,
 				7,
@@ -136,38 +137,40 @@
 				11,
 				12,
 				13
-			],
-			"name": "wave"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-79,
 				-211
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				188,
 				-319
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/gerun",
 	"position": [
-		-200,
-		-230
+		-160,
+		-340
 	],
+	"speaker": null,
 	"healthicon": "gerunplay",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -180,5 +183,6 @@
 		140
 	],
 	"sing_duration": 7.99999999999999,
+	"dead_character": null,
 	"scale": 0.9
 }
