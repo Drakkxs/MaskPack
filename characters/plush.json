@@ -55,11 +55,77 @@
 			"fps": 24,
 			"name": "hey",
 			"indices": [1, 2, 3, 4, 4, 4, 4, 4, 4]
+		},
+				{
+			"loop": false,
+			"offsets": [
+				-210,
+				-1
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "aidle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-189,
+				-209
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "asing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-248,
+				-8
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "asing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				45
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "asing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-75
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "asing left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-165,
+				43
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "taunt-alt",
+			"indices": [],
+			"name": "alaugh"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
-	"image": "characters/plush",
+	"image": "characters/plush,characters/yi xi",
 	"position": [-70, 370],
 	"healthicon": "plushxi",
 	"flip_x": false,

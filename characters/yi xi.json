@@ -8,7 +8,7 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
+			"name": "aidle",
 			"indices": []
 		},
 		{
@@ -19,7 +19,7 @@
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "sing down",
+			"name": "asing down",
 			"indices": []
 		},
 		{
@@ -30,7 +30,7 @@
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "sing right",
+			"name": "asing right",
 			"indices": []
 		},
 		{
@@ -41,7 +41,7 @@
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "sing up",
+			"name": "asing up",
 			"indices": []
 		},
 		{
@@ -52,7 +52,7 @@
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "sing left",
+			"name": "asing left",
 			"indices": []
 		},
 		{
@@ -64,7 +64,7 @@
 			"fps": 24,
 			"anim": "taunt",
 			"indices": [],
-			"name": "laugh"
+			"name": "alaugh"
 		}
 	],
 	"vocals_file": null,
