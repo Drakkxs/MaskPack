@@ -18,4 +18,18 @@ def clonePlayer():
                 
                 #return False
 
-clonePlayer()
+def findNeededPlayers():
+    directory = Path('./characters/')
+    for file_path in directory.iterdir():
+        if file_path.is_file():
+            if file_path.name.endswith(".json") and not "-player" in file_path.name:
+                cloneFilepath = Path("./characters/" + file_path.name.split(".")[0] + "-player.json")
+                if cloneFilepath.is_file():
+                    pass
+                    #print("Hey")
+                else:
+                    print(file_path.name + " Player File is Needed.")
+
+
+findNeededPlayers()
+#clonePlayer()

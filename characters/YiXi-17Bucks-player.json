@@ -2,7 +2,10 @@
 	"animations": [
 		{
 			"loop": false,
-			"offsets": [0, 10],
+			"offsets": [
+				-50,
+				-1
+			],
 			"anim": "idle",
 			"fps": 24,
 			"name": "Idle",
@@ -10,7 +13,10 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-30, 10],
+			"offsets": [
+				-66,
+				4
+			],
 			"anim": "singDOWN",
 			"fps": 24,
 			"name": "Down",
@@ -18,7 +24,10 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-66, 30],
+			"offsets": [
+				-56,
+				0
+			],
 			"anim": "singUP",
 			"fps": 24,
 			"name": "Up",
@@ -26,7 +35,10 @@
 		},
 		{
 			"loop": false,
-			"offsets": [-110, 27],
+			"offsets": [
+				70,
+				-3
+			],
 			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "Right",
@@ -34,7 +46,10 @@
 		},
 		{
 			"loop": false,
-			"offsets": [1, 10],
+			"offsets": [
+				-179,
+				10
+			],
 			"anim": "singLEFT",
 			"fps": 24,
 			"name": "Left",
@@ -42,14 +57,26 @@
 		}
 	],
 	"vocals_file": "",
+	"results_character": null,
 	"no_antialiasing": false,
-	"image": "characters/YiXi - Alt",
-	"position": [-510, -380],
-	"healthicon": "yixi",
+	"image": "characters/YiXi-17Bucks",
+	"position": [
+		-140,
+		-150
+	],
+	"speaker": null,
+	"healthicon": "yixi17",
 	"flip_x": false,
-	"healthbar_colors": [255, 0, 46],
-	"camera_position": [100, 50],
+	"healthbar_colors": [
+		255,
+		12,
+		13
+	],
+	"camera_position": [
+		-150,
+		50
+	],
 	"sing_duration": 6.1,
-	"scale": 1,
-	"_editor_isPlayer": false
+	"dead_character": null,
+	"scale": 1
 }
