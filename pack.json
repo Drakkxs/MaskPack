@@ -1,1 +1,11 @@
-{"runsGlobally":true,"description":"Description","color":[170,0,255],"name":"MASK","restart":false}
+{
+    "runsGlobally": true,
+    "description": "Description",
+    "color": [
+        170,
+        0,
+        255
+    ],
+    "name": "MaskPack",
+    "restart": false
+}
