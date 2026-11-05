@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle-alt",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bv whyte",
+	"position": [
+		20,
+		-20
+	],
+	"healthicon": "whyte",
+	"flip_x": false,
+	"healthbar_colors": [
+		224,
+		237,
+		255
+	],
+	"camera_position": [
+		-70,
+		110
+	],
+	"sing_duration": 5,
+	"scale": 0.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				260,
+				-173
+			],
+			"anim": "singDOWN",
+			"fps": 28,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				243,
+				-45
+			],
+			"anim": "singLEFT",
+			"fps": 28,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				14
+			],
+			"anim": "singUP",
+			"fps": 28,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-55
+			],
+			"anim": "singRIGHT",
+			"fps": 28,
+			"name": "sing right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/th part2 whyte",
+	"position": [
+		10,
+		-10
+	],
+	"healthicon": "icon-th gray play",
+	"flip_x": true,
+	"healthbar_colors": [
+		120,
+		107,
+		131
+	],
+	"camera_position": [
+		30,
+		-30
+	],
+	"sing_duration": 8,
+	"scale": 1
+}

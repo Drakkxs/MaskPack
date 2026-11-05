@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				107,
+				-163
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				102,
+				79
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				231,
+				-40
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				112,
+				-29
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/elf pinka",
+	"position": [
+		-10,
+		-30
+	],
+	"healthicon": "icon-pinka",
+	"flip_x": true,
+	"healthbar_colors": [
+		253,
+		66,
+		173
+	],
+	"camera_position": [
+		-30,
+		-10
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

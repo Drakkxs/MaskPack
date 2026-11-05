@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-38,
+				-55
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				-54,
+				-9
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				-73,
+				-59
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				-249,
+				-35
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/th part1 pinka",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-th pinka play",
+	"flip_x": false,
+	"healthbar_colors": [
+		205,
+		52,
+		119
+	],
+	"camera_position": [
+		-20,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

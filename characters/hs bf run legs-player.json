@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				190,
+				-195
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "danceLeft",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "run legs"
+		},
+		{
+			"offsets": [
+				190,
+				-194
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "danceRight",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "run legs"
+		},
+		{
+			"offsets": [
+				190,
+				-205
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "danceLeftmiss",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "miss run legs"
+		},
+		{
+			"offsets": [
+				190,
+				-205
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "danceRightmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "miss run legs"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hs bf run legs",
+	"position": [
+		-140,
+		240
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}
