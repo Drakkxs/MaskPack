@@ -1,137 +1,180 @@
 {
 	"animations": [
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 0],
-			"fps": 24,
 			"anim": "danceLeft",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 0],
-			"fps": 24,
 			"anim": "danceRight",
-			"indices": [],
-			"name": "Idle"
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 0],
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"fps": 24,
+			"name": "Left",
+			"indices": []
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 0],
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 24,
+			"name": "Down",
+			"indices": []
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 0],
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 24,
+			"name": "Up",
+			"indices": []
 		},
 		{
+			"offsets": [
+				0,
+				0
+			],
 			"loop": false,
-			"offsets": [0, 0],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 24,
+			"name": "Right",
+			"indices": []
 		},
 		{
+			"offsets": [
+				0,
+				10
+			],
 			"loop": false,
-			"offsets": [0, 10],
+			"fps": 24,
 			"anim": "hey",
-			"fps": 24,
-			"name": "hey",
-			"indices": [1, 2, 3, 4, 4, 4, 4, 4, 4]
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				4,
+				4,
+				4,
+				4,
+				4
+			],
+			"name": "hey"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-210,
-				-1
+				-60,
+				289
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle-alt",
-			"fps": 24,
-			"name": "aidle",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-189,
-				-209
-			],
-			"anim": "singDOWN-alt",
-			"fps": 24,
-			"name": "asing down",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-38,
-				-8
-			],
-			"anim": "singRIGHT-alt",
-			"fps": 24,
-			"name": "asing right",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-247,
-				45
-			],
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "asing up",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-262,
-				-45
-			],
-			"anim": "singLEFT-alt",
-			"fps": 24,
-			"name": "asing left",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-225,
-				43
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "taunt-alt",
 			"indices": [],
-			"name": "alaugh"
+			"name": "aidle"
+		},
+		{
+			"offsets": [
+				-29,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "asing down"
+		},
+		{
+			"offsets": [
+				122,
+				292
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "asing right"
+		},
+		{
+			"offsets": [
+				-77,
+				345
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "asing up"
+		},
+		{
+			"offsets": [
+				-112,
+				255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "asing left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				343
+			],
+			"anim": "taunt-alt",
+			"fps": 24,
+			"name": "alaugh",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/plush,characters/yi xi",
-	"position": [-70, 370],
+	"position": [
+		-70,
+		370
+	],
+	"speaker": null,
 	"healthicon": "plushxi",
 	"flip_x": false,
-	"healthbar_colors": [255, 56, 62],
-	"camera_position": [0, 0],
+	"healthbar_colors": [
+		255,
+		56,
+		62
+	],
+	"camera_position": [
+		0,
+		0
+	],
 	"sing_duration": 7,
-	"scale": 0.8,
-	"_editor_isPlayer": false
+	"dead_character": null,
+	"scale": 0.8
 }
