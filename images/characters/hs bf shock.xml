@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hs bf shock.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shock0000" x="0" y="0" width="357" height="857"/>
+	<SubTexture name="shock0001" x="357" y="0" width="357" height="857"/>
+	<SubTexture name="shock0002" x="714" y="0" width="357" height="857"/>
+	<SubTexture name="shock0003" x="1071" y="0" width="357" height="857"/>
+	<SubTexture name="shock0004" x="1428" y="0" width="357" height="857"/>
+</TextureAtlas>

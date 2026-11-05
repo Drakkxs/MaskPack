@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-257
+			],
+			"anim": "liveReaction",
+			"fps": 24,
+			"name": "bwomp",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-74,
+				-248
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		},
+		{
+			"offsets": [
+				-77,
+				-288
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				125,
+				-173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				286,
+				-129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				0,
+				-170
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gerun imp2",
+	"position": [
+		-20,
+		-190
+	],
+	"healthicon": "gerunimpostor",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		107,
+		43
+	],
+	"camera_position": [
+		-210,
+		170
+	],
+	"sing_duration": 7,
+	"scale": 0.9
+}

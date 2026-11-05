@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-2
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-83
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-17
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-62,
+				-38
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				46,
+				-137
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yeah",
+			"indices": [],
+			"name": "yeah"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Brain Rot teto",
+	"position": [
+		40,
+		50
+	],
+	"healthicon": "icon-br teto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-30,
+		30
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 0.8
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				-52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				82,
+				188
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				183,
+				75
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-48,
+				85
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-25,
+				-7
+			],
+			"loop": true,
+			"fps": 22,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dk bullock",
+	"position": [
+		-220,
+		-10
+	],
+	"healthicon": "icon-bullock",
+	"flip_x": false,
+	"healthbar_colors": [
+		71,
+		40,
+		115
+	],
+	"camera_position": [
+		130,
+		30
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1
+}

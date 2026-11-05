@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-147,
+				-128
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				-84,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				-42,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				-151,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Sarvente devil",
+	"position": [
+		-420,
+		-130
+	],
+	"healthicon": "icon-sarv",
+	"flip_x": false,
+	"healthbar_colors": [
+		218,
+		49,
+		125
+	],
+	"camera_position": [
+		-50,
+		90
+	],
+	"sing_duration": 6,
+	"scale": 0.9
+}

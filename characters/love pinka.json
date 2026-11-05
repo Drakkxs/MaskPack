@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				0,
+				-197
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		},
+		{
+			"offsets": [
+				0,
+				-209
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				0,
+				-206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				0,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/love pinka",
+	"position": [
+		-200,
+		-140
+	],
+	"healthicon": "p",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		71,
+		178
+	],
+	"camera_position": [
+		-30,
+		-10
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 1.2
+}

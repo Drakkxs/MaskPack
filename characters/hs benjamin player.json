@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				122,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				218,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				100,
+				0
+			],
+			"loop": true,
+			"fps": 16,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				192,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				141,
+				-13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hs benjamin",
+	"position": [
+		-130,
+		-50
+	],
+	"healthicon": "hs benjamin",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		33,
+		80
+	],
+	"camera_position": [
+		0,
+		-90
+	],
+	"sing_duration": 8.99999999999999,
+	"scale": 1
+}

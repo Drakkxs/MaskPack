@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				29,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				83,
+				-20
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				157,
+				105
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-6
+			],
+			"anim": "idle",
+			"fps": 28,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				7
+			],
+			"loop": false,
+			"fps": 36,
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-67,
+				-3
+			],
+			"anim": "ready",
+			"fps": 30,
+			"name": "ready",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dk whyte",
+	"position": [
+		10,
+		-140
+	],
+	"healthicon": "icon-dk",
+	"flip_x": false,
+	"healthbar_colors": [
+		203,
+		220,
+		255
+	],
+	"camera_position": [
+		60,
+		60
+	],
+	"sing_duration": 7.99999999999999,
+	"scale": 0.8
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				29,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "laugh"
+		},
+		{
+			"offsets": [
+				47,
+				-162
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				82,
+				12
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singUP",
+			"loop": false,
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				108,
+				-15
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				-25,
+				-42
+			],
+			"indices": [],
+			"fps": 22,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "sing right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/pinka",
+	"position": [
+		0,
+		10
+	],
+	"healthicon": "icon-pinka",
+	"flip_x": false,
+	"healthbar_colors": [
+		253,
+		66,
+		173
+	],
+	"camera_position": [
+		-30,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

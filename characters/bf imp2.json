@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				141,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				42,
+				-163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				-16,
+				119
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				-8,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		},
+		{
+			"offsets": [
+				10,
+				-25
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "lol",
+			"indices": [],
+			"name": "lol"
+		},
+		{
+			"offsets": [
+				-10,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "lol2",
+			"indices": [],
+			"name": "laugh"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf imp2",
+	"position": [
+		-60,
+		90
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-160,
+		80
+	],
+	"sing_duration": 5.50000000000001,
+	"scale": 0.8
+}

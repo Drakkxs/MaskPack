@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				3
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				184,
+				-19
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				131,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				242,
+				66
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				51,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hs shiro",
+	"position": [
+		-110,
+		70
+	],
+	"healthicon": "icon- hs shiro",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		254,
+		254
+	],
+	"camera_position": [
+		-30,
+		0
+	],
+	"sing_duration": 7,
+	"scale": 0.9
+}

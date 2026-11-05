@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dk bullock.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="980" height="842" frameX="-7" frameY="0" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0001" x="980" y="0" width="977" height="841" frameX="-7" frameY="-1" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0002" x="1957" y="0" width="974" height="841" frameX="-6" frameY="-1" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0003" x="2931" y="0" width="972" height="840" frameX="-5" frameY="-2" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0004" x="3903" y="0" width="968" height="839" frameX="-5" frameY="-3" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0005" x="4871" y="0" width="967" height="838" frameX="-2" frameY="-4" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0006" x="5838" y="0" width="969" height="833" frameX="-2" frameY="-9" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0007" x="6807" y="0" width="971" height="827" frameX="-2" frameY="-15" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0008" x="0" y="842" width="974" height="820" frameX="-1" frameY="-22" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0009" x="974" y="842" width="977" height="813" frameX="0" frameY="-29" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0010" x="1951" y="842" width="980" height="815" frameX="-3" frameY="-27" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0011" x="2931" y="842" width="982" height="816" frameX="-6" frameY="-26" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0012" x="3913" y="842" width="985" height="816" frameX="-9" frameY="-26" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0013" x="4898" y="842" width="987" height="817" frameX="-9" frameY="-25" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0014" x="5885" y="842" width="988" height="816" frameX="-10" frameY="-26" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0015" x="6873" y="842" width="990" height="815" frameX="-11" frameY="-27" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0016" x="0" y="1662" width="990" height="817" frameX="-10" frameY="-25" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0017" x="990" y="1662" width="990" height="819" frameX="-9" frameY="-23" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0018" x="1980" y="1662" width="991" height="821" frameX="-8" frameY="-21" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0019" x="2971" y="1662" width="992" height="824" frameX="-7" frameY="-18" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0020" x="3963" y="1662" width="989" height="828" frameX="-7" frameY="-14" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0021" x="4952" y="1662" width="986" height="833" frameX="-7" frameY="-9" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0022" x="5938" y="1662" width="983" height="837" frameX="-7" frameY="-5" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0023" x="0" y="0" width="980" height="842" frameX="-7" frameY="0" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0024" x="0" y="0" width="980" height="842" frameX="-7" frameY="0" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="idle0025" x="0" y="0" width="980" height="842" frameX="-7" frameY="0" frameWidth="1001" frameHeight="842"/>
+	<SubTexture name="sing down0000" x="6921" y="1662" width="902" height="798" frameX="0" frameY="0" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing down0001" x="0" y="2499" width="896" height="794" frameX="-3" frameY="-4" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing down0002" x="896" y="2499" width="892" height="791" frameX="-6" frameY="-7" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing down0003" x="1788" y="2499" width="901" height="768" frameX="-6" frameY="-30" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing down0004" x="2689" y="2499" width="909" height="746" frameX="-6" frameY="-52" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing down0005" x="3598" y="2499" width="917" height="724" frameX="-6" frameY="-74" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing down0006" x="4515" y="2499" width="917" height="720" frameX="-6" frameY="-78" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing down0007" x="5432" y="2499" width="917" height="717" frameX="-6" frameY="-81" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing down0008" x="6349" y="2499" width="917" height="713" frameX="-6" frameY="-85" frameWidth="923" frameHeight="798"/>
+	<SubTexture name="sing left0000" x="0" y="3293" width="1086" height="869" frameX="0" frameY="-52" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing left0001" x="1086" y="3293" width="1061" height="872" frameX="-8" frameY="-49" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing left0002" x="2147" y="3293" width="1032" height="875" frameX="-19" frameY="-46" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing left0003" x="3179" y="3293" width="987" height="887" frameX="-60" frameY="-34" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing left0004" x="4166" y="3293" width="940" height="897" frameX="-103" frameY="-24" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing left0005" x="5106" y="3293" width="889" height="910" frameX="-149" frameY="-11" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing left0006" x="5995" y="3293" width="888" height="914" frameX="-150" frameY="-7" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing left0007" x="6883" y="3293" width="887" height="917" frameX="-151" frameY="-4" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing left0008" x="0" y="4210" width="886" height="921" frameX="-152" frameY="0" frameWidth="1086" frameHeight="921"/>
+	<SubTexture name="sing right0000" x="886" y="4210" width="1256" height="935" frameX="-30" frameY="0" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing right0001" x="2142" y="4210" width="1244" height="877" frameX="-39" frameY="-58" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing right0002" x="3386" y="4210" width="1231" height="817" frameX="-48" frameY="-118" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing right0003" x="4617" y="4210" width="1194" height="811" frameX="-40" frameY="-124" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing right0004" x="5811" y="4210" width="1166" height="823" frameX="-31" frameY="-112" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing right0005" x="6977" y="4210" width="1137" height="835" frameX="-24" frameY="-100" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing right0006" x="0" y="5145" width="1139" height="838" frameX="-16" frameY="-97" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing right0007" x="1139" y="5145" width="1141" height="842" frameX="-8" frameY="-93" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing right0008" x="2280" y="5145" width="1141" height="851" frameX="0" frameY="-84" frameWidth="1286" frameHeight="935"/>
+	<SubTexture name="sing up0000" x="3421" y="5145" width="894" height="1036" frameX="-8" frameY="0" frameWidth="903" frameHeight="1037"/>
+	<SubTexture name="sing up0001" x="4315" y="5145" width="895" height="1027" frameX="-8" frameY="-9" frameWidth="903" frameHeight="1037"/>
+	<SubTexture name="sing up0002" x="5210" y="5145" width="895" height="1019" frameX="-8" frameY="-18" frameWidth="903" frameHeight="1037"/>
+	<SubTexture name="sing up0003" x="6105" y="5145" width="896" height="1001" frameX="-5" frameY="-36" frameWidth="903" frameHeight="1037"/>
+	<SubTexture name="sing up0004" x="7001" y="5145" width="897" height="983" frameX="-2" frameY="-54" frameWidth="903" frameHeight="1037"/>
+	<SubTexture name="sing up0005" x="0" y="6181" width="896" height="964" frameX="0" frameY="-73" frameWidth="903" frameHeight="1037"/>
+	<SubTexture name="sing up0006" x="896" y="6181" width="896" height="962" frameX="0" frameY="-75" frameWidth="903" frameHeight="1037"/>
+	<SubTexture name="sing up0007" x="1792" y="6181" width="896" height="959" frameX="0" frameY="-78" frameWidth="903" frameHeight="1037"/>
+	<SubTexture name="sing up0008" x="2688" y="6181" width="896" height="957" frameX="0" frameY="-80" frameWidth="903" frameHeight="1037"/>
+</TextureAtlas>

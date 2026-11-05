@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="th part0 2.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle two0000" x="0" y="0" width="473" height="816" frameX="-10" frameY="-2" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0001" x="0" y="0" width="473" height="816" frameX="-10" frameY="-2" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0002" x="0" y="0" width="473" height="816" frameX="-10" frameY="-2" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0003" x="0" y="0" width="473" height="816" frameX="-10" frameY="-2" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0004" x="0" y="0" width="473" height="816" frameX="-10" frameY="-2" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0005" x="473" y="0" width="474" height="820" frameX="-8" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0006" x="473" y="0" width="474" height="820" frameX="-8" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0007" x="473" y="0" width="474" height="820" frameX="-8" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0008" x="473" y="0" width="474" height="820" frameX="-8" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0009" x="473" y="0" width="474" height="820" frameX="-8" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0010" x="947" y="0" width="481" height="811" frameX="0" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0011" x="947" y="0" width="481" height="811" frameX="0" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0012" x="947" y="0" width="481" height="811" frameX="0" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0013" x="947" y="0" width="481" height="811" frameX="0" frameY="0" frameWidth="483" frameHeight="820"/>
+	<SubTexture name="idle two0014" x="947" y="0" width="481" height="811" frameX="0" frameY="0" frameWidth="483" frameHeight="820"/>
+</TextureAtlas>

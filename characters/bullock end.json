@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				230,
+				571
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
+		},
+		{
+			"offsets": [
+				60,
+				-90
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				351,
+				564
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
+			"offsets": [
+				-326,
+				109
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
+		},
+		{
+			"offsets": [
+				666,
+				346
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bullock end",
+	"position": [
+		-390,
+		-330
+	],
+	"healthicon": "bullock",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		18,
+		102
+	],
+	"camera_position": [
+		-253,
+		140
+	],
+	"sing_duration": 6,
+	"scale": 3.1
+}

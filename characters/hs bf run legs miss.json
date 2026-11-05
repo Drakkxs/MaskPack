@@ -1,0 +1,66 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				90,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeftmiss",
+			"indices": [
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20
+			],
+			"name": "miss run legs"
+		},
+		{
+			"offsets": [
+				90,
+				-205
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRightmiss",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "miss run legs"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hs bf run legs",
+	"position": [
+		-30,
+		170
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
