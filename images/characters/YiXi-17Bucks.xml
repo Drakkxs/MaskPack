@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="YiXi-17Bucks.png">
+<SubTexture name="Down0000" x="0" y="0" width="368" height="733" frameX="-106" frameY="-198" frameWidth="600" frameHeight="926" />
+<SubTexture name="Down0001" x="368" y="0" width="363" height="740" frameX="-104" frameY="-192" frameWidth="600" frameHeight="926" />
+<SubTexture name="Idle0000" x="731" y="0" width="335" height="881" frameX="-114" frameY="-44" frameWidth="600" frameHeight="926" />
+<SubTexture name="Left0000" x="1066" y="0" width="508" height="747" frameX="-81" frameY="-173" frameWidth="600" frameHeight="926" />
+<SubTexture name="Left0001" x="0" y="881" width="495" height="762" frameX="-98" frameY="-159" frameWidth="600" frameHeight="926" />
+<SubTexture name="Right0000" x="495" y="881" width="456" height="770" frameX="-39" frameY="-153" frameWidth="600" frameHeight="926" />
+<SubTexture name="Right0001" x="951" y="881" width="440" height="773" frameX="-41" frameY="-148" frameWidth="600" frameHeight="926" />
+<SubTexture name="Up0000" x="1391" y="881" width="315" height="911" frameX="-133" frameY="-15" frameWidth="600" frameHeight="926" />
+<SubTexture name="Up0001" x="0" y="1792" width="320" height="902" frameX="-128" frameY="-22" frameWidth="600" frameHeight="926" />
+</TextureAtlas>
