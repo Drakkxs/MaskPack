@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				25,
-				-415
+				-395
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				58,
-				59
+				69
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
+			"loop": true,
 			"offsets": [
 				-82,
 				0
 			],
-			"loop": true,
-			"fps": 20,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 20,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-124,
-				-133
+				-234,
+				-143
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				253,
-				-167
+				273,
+				-157
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing right"
 		}
 	],
 	"vocals_file": null,
@@ -61,8 +61,8 @@
 	"no_antialiasing": false,
 	"image": "characters/bv bullock",
 	"position": [
-		-70,
-		-40
+		-60,
+		-80
 	],
 	"speaker": null,
 	"healthicon": "icon-bullock",

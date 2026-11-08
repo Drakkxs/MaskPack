@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				-30
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle0",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle0"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				-8
 			],
-			"anim": "idle-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "idle1",
-			"indices": []
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idle1"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				54,
 				12
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				2,
 				-2
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-3,
 				142
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
 		}
 	],
 	"vocals_file": null,
@@ -72,8 +72,8 @@
 	"no_antialiasing": false,
 	"image": "characters/demon",
 	"position": [
-		0,
-		390
+		40,
+		480
 	],
 	"speaker": null,
 	"healthicon": "demon",

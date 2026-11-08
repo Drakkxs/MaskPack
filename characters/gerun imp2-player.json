@@ -1,20 +1,9 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				-39,
-				-257
-			],
-			"anim": "liveReaction",
-			"fps": 24,
-			"name": "bwomp",
-			"indices": []
-		},
-		{
-			"offsets": [
-				176,
-				-248
+				126,
+				-328
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-17,
-				-288
+				-97,
+				-368
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-85,
-				-173
+				-205,
+				-263
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-14,
-				-129
+				-64,
+				-189
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				-170
+				-40,
+				-250
 			],
 			"loop": false,
 			"fps": 24,
@@ -72,8 +61,8 @@
 	"no_antialiasing": false,
 	"image": "characters/gerun imp2",
 	"position": [
-		-90,
-		-310
+		-160,
+		-400
 	],
 	"speaker": null,
 	"healthicon": "gerunimpostor",

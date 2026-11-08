@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				161,
 				50
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				124,
-				-157
+				134,
+				-197
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				143,
 				85
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				172,
-				8
+				112,
+				-2
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				356,
+				-183
+			],
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
 			"loop": false,
-			"offsets": [
-				316,
-				-93
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "sing right",
-			"indices": []
-		},
-		{
 			"offsets": [
 				182,
 				50
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "hey",
-			"indices": [],
-			"name": "hey"
+			"fps": 24,
+			"name": "hey",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -72,8 +72,8 @@
 	"no_antialiasing": false,
 	"image": "characters/cliff2",
 	"position": [
-		40,
-		50
+		80,
+		-60
 	],
 	"speaker": null,
 	"healthicon": "icon-cliff",

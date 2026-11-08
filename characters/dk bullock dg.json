@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-220,
 				55
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-107,
 				294
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-212,
-				100
-			],
-			"anim": "idle",
 			"fps": 24,
-			"name": "idle",
+			"name": "sing up",
 			"indices": []
 		},
 		{
 			"offsets": [
-				-233,
-				192
+				-212,
+				100
 			],
-			"loop": false,
+			"loop": true,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "idle",
 			"indices": [],
-			"name": "sing right"
+			"name": "idle"
 		},
 		{
+			"loop": false,
+			"offsets": [
+				-153,
+				192
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				4,
 				184
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -61,7 +61,7 @@
 	"no_antialiasing": false,
 	"image": "characters/dk bullock",
 	"position": [
-		-310,
+		-570,
 		30
 	],
 	"speaker": null,

@@ -2,8 +2,8 @@
 	"animations": [
 		{
 			"offsets": [
-				35,
-				-12
+				75,
+				-42
 			],
 			"loop": false,
 			"fps": 24,
@@ -13,8 +13,8 @@
 		},
 		{
 			"offsets": [
-				-33,
-				157
+				-3,
+				177
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,7 +24,7 @@
 		},
 		{
 			"offsets": [
-				69,
+				79,
 				90
 			],
 			"loop": false,
@@ -49,10 +49,10 @@
 				-59,
 				76
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": false,
+			"indices": [],
 			"name": "idle"
 		},
 		{
@@ -60,10 +60,10 @@
 				-59,
 				76
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "danceLeft",
-			"loop": false,
+			"indices": [],
 			"name": "idle"
 		},
 		{
@@ -71,19 +71,22 @@
 				-59,
 				76
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "danceRight",
-			"loop": false,
+			"indices": [],
 			"name": "idle"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/g richard",
 	"position": [
-		-220,
-		-50
+		-150,
+		-100
 	],
+	"speaker": null,
 	"healthicon": "icon-richard play",
 	"flip_x": true,
 	"healthbar_colors": [
@@ -96,5 +99,6 @@
 		70
 	],
 	"sing_duration": 6.1,
-	"scale": 0.8
+	"dead_character": null,
+	"scale": 1
 }

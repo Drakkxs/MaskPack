@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				35,
-				-12
+				65,
+				-32
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -14,8 +14,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				17,
-				157
+				67,
+				187
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				49,
+				119,
 				56
 			],
 			"anim": "singLEFT",
@@ -83,8 +83,8 @@
 	"no_antialiasing": false,
 	"image": "characters/g richard",
 	"position": [
-		-210,
-		-50
+		-180,
+		-90
 	],
 	"speaker": null,
 	"healthicon": "icon-richard play",
@@ -100,5 +100,5 @@
 	],
 	"sing_duration": 6.1,
 	"dead_character": null,
-	"scale": 0.8
+	"scale": 1
 }

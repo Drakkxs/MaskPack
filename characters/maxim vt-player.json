@@ -1,125 +1,125 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				45,
 				-11
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				148,
 				-8
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				63,
 				-64
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-5,
 				21
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
-				{
+		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle-alt",
-			"indices": [],
-			"name": "aidle"
+			"fps": 24,
+			"name": "aidle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				47,
 				-16
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "asing right"
+			"fps": 24,
+			"name": "asing right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				187,
 				-56
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "asing left"
+			"fps": 24,
+			"name": "asing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				10,
 				-147
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "asing down"
+			"fps": 24,
+			"name": "asing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				60,
 				18
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "asing up"
+			"fps": 24,
+			"name": "asing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				57,
 				15
 			],
-			"loop": false,
-			"fps": 12,
 			"anim": "taunt",
-			"indices": [],
-			"name": "scream"
+			"fps": 12,
+			"name": "scream",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -127,8 +127,8 @@
 	"no_antialiasing": false,
 	"image": "characters/maxim vt,characters/maxim vt2",
 	"position": [
-		100,
-		90
+		40,
+		120
 	],
 	"speaker": null,
 	"healthicon": "maxim",

@@ -1,13 +1,14 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				81,
 				-168
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
+			"fps": 24,
+			"name": "idle",
 			"indices": [
 				11,
 				12,
@@ -20,61 +21,61 @@
 				19,
 				20,
 				21
-			],
-			"name": "idle"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
-				264,
+				284,
 				-261
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				64,
+				44,
 				-282
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				6,
-				-185
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-63,
+				-192
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing left"
-		},
-		{
-			"offsets": [
-				78,
-				-139
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [
+				88,
+				-119
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
+		},
+		{
+			"loop": false,
 			"offsets": [
 				79,
 				-169
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle",
 			"indices": [
 				1,
 				2,
@@ -86,19 +87,18 @@
 				8,
 				9,
 				10
-			],
-			"name": "idle"
+			]
 		},
 		{
-			"loop": false,
 			"offsets": [
 				53,
 				-165
 			],
-			"anim": "liveReaction",
+			"loop": false,
 			"fps": 24,
-			"name": "what",
-			"indices": []
+			"anim": "liveReaction",
+			"indices": [],
+			"name": "what"
 		}
 	],
 	"vocals_file": null,
@@ -107,7 +107,7 @@
 	"image": "characters/gerun impostor",
 	"position": [
 		-20,
-		-260
+		-330
 	],
 	"speaker": null,
 	"healthicon": "gerunimpostor",

@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-13,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-19,
-				-169
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-15,
+				-210
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-79,
-				44
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-88,
+				56
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-126,
-				-33
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-151,
+				-39
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				111,
-				-49
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				141,
+				-59
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -61,8 +61,8 @@
 	"no_antialiasing": false,
 	"image": "characters/richard sad",
 	"position": [
-		-190,
-		-70
+		-110,
+		-150
 	],
 	"speaker": null,
 	"healthicon": "icon-richard",

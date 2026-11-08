@@ -1,92 +1,92 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-9,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-46,
-				-178
+				5,
+				-210
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-47,
-				32
+				-57,
+				34
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				202,
+				245,
 				-34
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
+		},
+		{
+			"offsets": [
+				-171,
+				-69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-131,
-				-59
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "sing right",
-			"indices": []
-		},
-		{
-			"offsets": [
-				-48,
+				-58,
 				7
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "afraid",
-			"indices": [],
-			"name": "afraid"
+			"fps": 24,
+			"name": "afraid",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-103,
 				-17
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "ready",
-			"indices": [],
-			"name": "ready"
+			"fps": 24,
+			"name": "ready",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-26,
 				9
 			],
-			"anim": "shoot",
+			"loop": false,
 			"fps": 30,
-			"name": "shoot",
-			"indices": []
+			"anim": "shoot",
+			"indices": [],
+			"name": "shoot"
 		}
 	],
 	"vocals_file": null,
@@ -94,8 +94,8 @@
 	"no_antialiasing": false,
 	"image": "characters/richard",
 	"position": [
-		-90,
-		-110
+		-140,
+		-140
 	],
 	"speaker": null,
 	"healthicon": "icon-richard",

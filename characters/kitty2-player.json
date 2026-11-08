@@ -1,147 +1,147 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-31,
 				-28
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "down0"
+			"fps": 24,
+			"name": "down0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-23,
 				-28
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "down2"
+			"fps": 24,
+			"name": "down2",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-70,
 				11
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "eat",
-			"indices": [],
-			"name": "eat"
+			"fps": 24,
+			"name": "eat",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-50,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle0"
+			"fps": 24,
+			"name": "idle0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-71,
 				11
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle1",
-			"indices": [],
-			"name": "idle1"
+			"fps": 24,
+			"name": "idle1",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-60,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle-alt",
-			"indices": [],
-			"name": "idle2"
+			"fps": 24,
+			"name": "idle2",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-99,
 				-26
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "left0"
+			"fps": 24,
+			"name": "left0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-100,
 				-23
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "left2"
+			"fps": 24,
+			"name": "left2",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-26,
 				-2
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "right0"
+			"fps": 24,
+			"name": "right0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-24,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "right2"
+			"fps": 24,
+			"name": "right2",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-91,
 				-7
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "up0"
+			"fps": 24,
+			"name": "up0",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-92,
 				-8
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "up2"
+			"fps": 24,
+			"name": "up2",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-60,
 				0
 			],
-			"anim": "insanee",
+			"loop": false,
 			"fps": 24,
-			"name": "grunt",
-			"indices": []
+			"anim": "insanee",
+			"indices": [],
+			"name": "grunt"
 		}
 	],
 	"vocals_file": null,
@@ -149,8 +149,8 @@
 	"no_antialiasing": false,
 	"image": "characters/kitty2",
 	"position": [
-		0,
-		320
+		-60,
+		360
 	],
 	"speaker": null,
 	"healthicon": "kitty2",

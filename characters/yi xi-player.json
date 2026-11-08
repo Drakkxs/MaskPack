@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-210,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "aidle"
+			"fps": 24,
+			"name": "aidle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-189,
-				-209
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				-169,
+				-269
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "asing down"
+			"fps": 24,
+			"name": "asing down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-38,
-				-8
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				232,
+				32
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "asing right"
-		},
-		{
-			"offsets": [
-				-247,
-				45
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "asing up"
+			"name": "asing right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-262,
+				-207,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "asing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-222,
 				-45
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "asing left"
+			"fps": 24,
+			"name": "asing left",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-225,
-				43
+				-205,
+				53
 			],
-			"anim": "taunt",
+			"loop": false,
 			"fps": 24,
-			"name": "alaugh",
-			"indices": []
+			"anim": "taunt",
+			"indices": [],
+			"name": "alaugh"
 		}
 	],
 	"vocals_file": null,
@@ -72,7 +72,7 @@
 	"no_antialiasing": false,
 	"image": "characters/yi xi",
 	"position": [
-		-200,
+		-160,
 		-80
 	],
 	"speaker": null,

@@ -80,7 +80,7 @@
 		{
 			"offsets": [
 				79,
-				-83
+				-73
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +101,8 @@
 		},
 		{
 			"offsets": [
-				87,
-				22
+				17,
+				82
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,8 +112,8 @@
 		},
 		{
 			"offsets": [
-				-62,
-				-38
+				-122,
+				-18
 			],
 			"loop": false,
 			"fps": 24,
@@ -124,8 +124,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				46,
-				-87
+				16,
+				-127
 			],
 			"anim": "yeah-alt",
 			"fps": 24,
@@ -138,8 +138,8 @@
 	"no_antialiasing": false,
 	"image": "characters/Brain Rot teto,characters/Brain Rot teto2",
 	"position": [
-		40,
-		50
+		-70,
+		-50
 	],
 	"speaker": null,
 	"healthicon": "icon-br teto",
@@ -155,5 +155,5 @@
 	],
 	"sing_duration": 7.99999999999999,
 	"dead_character": null,
-	"scale": 0.8
+	"scale": 1
 }

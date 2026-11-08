@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				3
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"offsets": [
-				245,
-				-19
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				265,
+				-27
+			],
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
-			"offsets": [
-				208,
-				67
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				223,
+				69
+			],
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
-			"offsets": [
-				161,
-				-18
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				179,
+				-25
+			],
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing left"
+			"fps": 24,
+			"name": "sing left",
+			"indices": []
 		},
 		{
-			"offsets": [
-				119,
-				-12
-			],
 			"loop": false,
-			"fps": 24,
+			"offsets": [
+				129,
+				-22
+			],
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing right"
+			"fps": 24,
+			"name": "sing right",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -61,8 +61,8 @@
 	"no_antialiasing": false,
 	"image": "characters/hs shiro",
 	"position": [
-		-110,
-		-10
+		-60,
+		-30
 	],
 	"speaker": null,
 	"healthicon": "icon- hs shiro player",

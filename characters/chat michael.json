@@ -48,7 +48,7 @@
 			"loop": false,
 			"offsets": [
 				290,
-				-150
+				-140
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -75,12 +75,15 @@
 			"name": "idle"
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/chat michael",
 	"position": [
-		110,
-		-250
+		20,
+		-330
 	],
+	"speaker": null,
 	"healthicon": "michael",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -93,5 +96,6 @@
 		290
 	],
 	"sing_duration": 7,
-	"scale": 0.8
+	"dead_character": null,
+	"scale": 1
 }

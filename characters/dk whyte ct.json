@@ -3,8 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				29,
-				-24
+				37,
+				-21
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				83,
+				105,
 				-20
 			],
 			"anim": "singLEFT",
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				157,
-				105
+				197,
+				135
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				-13,
-				7
+				-15,
+				20
 			],
 			"loop": false,
 			"fps": 36,
@@ -69,8 +69,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-67,
-				-3
+				-83,
+				4
 			],
 			"anim": "ready",
 			"fps": 30,
@@ -78,12 +78,15 @@
 			"indices": []
 		}
 	],
+	"vocals_file": null,
+	"results_character": null,
 	"no_antialiasing": false,
 	"image": "characters/dk whyte",
 	"position": [
-		10,
-		-140
+		-200,
+		-260
 	],
+	"speaker": null,
 	"healthicon": "icon-dk",
 	"flip_x": false,
 	"healthbar_colors": [
@@ -96,5 +99,6 @@
 		60
 	],
 	"sing_duration": 7.99999999999999,
-	"scale": 0.8
+	"dead_character": null,
+	"scale": 1
 }

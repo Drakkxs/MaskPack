@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-210,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "aidle"
-		},
-		{
-			"offsets": [
-				-189,
-				-209
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "asing down"
-		},
-		{
-			"offsets": [
-				-248,
-				-8
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "asing right"
-		},
-		{
-			"offsets": [
-				-17,
-				45
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "asing up"
-		},
-		{
-			"offsets": [
-				9,
-				-75
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "asing left"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-165,
-				43
-			],
-			"anim": "taunt",
-			"fps": 24,
-			"name": "alaugh",
+			"name": "aidle",
 			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-139,
+				-269
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "asing down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-298,
+				-28
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "asing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				63
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "asing up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				-45
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "asing left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-145,
+				63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "taunt",
+			"indices": [],
+			"name": "alaugh"
 		}
 	],
 	"vocals_file": null,
@@ -72,8 +72,8 @@
 	"no_antialiasing": false,
 	"image": "characters/yi xi",
 	"position": [
-		-170,
-		-60
+		-240,
+		-80
 	],
 	"speaker": null,
 	"healthicon": "icon-yixi",

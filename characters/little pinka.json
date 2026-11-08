@@ -1,112 +1,113 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-88,
 				-94
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-73,
 				-205
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-2,
 				-40
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				154,
 				-140
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-83,
 				-101
 			],
-			"anim": "singRIGHTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "left miss",
-			"indices": []
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "left miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-59,
 				-202
 			],
-			"anim": "singDOWNmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "down miss",
-			"indices": []
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "down miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-26,
 				-48
 			],
-			"anim": "singUPmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "up miss",
-			"indices": []
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "up miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				121,
 				-142
 			],
-			"anim": "singLEFTmiss",
+			"loop": false,
 			"fps": 24,
-			"name": "right miss",
-			"indices": []
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "right miss"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-34,
 				-61
 			],
-			"anim": "hey",
+			"loop": false,
 			"fps": 24,
-			"name": "hey",
-			"indices": []
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-60
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
+			"fps": 24,
+			"name": "idle",
 			"indices": [
 				10,
 				11,
@@ -118,18 +119,16 @@
 				17,
 				18,
 				19
-			],
-			"name": "idle"
+			]
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-60
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
+			"anim": "danceLeft",
 			"indices": [
 				0,
 				1,
@@ -141,7 +140,8 @@
 				7,
 				8,
 				9
-			]
+			],
+			"name": "idle"
 		}
 	],
 	"vocals_file": null,
@@ -149,8 +149,8 @@
 	"no_antialiasing": false,
 	"image": "characters/little pinka",
 	"position": [
-		-30,
-		50
+		-70,
+		30
 	],
 	"speaker": null,
 	"healthicon": "pinkaplayer",

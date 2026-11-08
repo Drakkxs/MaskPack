@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				6,
-				-59
-			],
-			"anim": "singDOWN",
-			"fps": 28,
-			"name": "sing down",
+			"fps": 24,
+			"name": "idle",
 			"indices": []
 		},
 		{
+			"offsets": [
+				16,
+				-59
+			],
 			"loop": false,
+			"fps": 28,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
+		},
+		{
 			"offsets": [
 				-2,
 				-25
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 28,
-			"name": "sing left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-27,
+				-47,
 				-3
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 28,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-22,
+				-55,
 				1
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 28,
-			"name": "sing right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing right"
 		}
 	],
 	"vocals_file": null,
@@ -61,8 +61,8 @@
 	"no_antialiasing": false,
 	"image": "characters/th part1 gray",
 	"position": [
-		-90,
-		-50
+		-40,
+		-80
 	],
 	"speaker": null,
 	"healthicon": "icon-th gray play",
