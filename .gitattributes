@@ -1,0 +1,3 @@
+setup.bat export-ignore
+.githooks/ export-ignore
+.gitattributes export-ignore
