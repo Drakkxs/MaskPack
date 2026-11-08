@@ -35,7 +35,7 @@
 				129
 			],
 			"loop": false,
-			"anim": "singLEFT",
+			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "XLeft",
 			"indices": []
@@ -68,7 +68,7 @@
 				-19
 			],
 			"loop": false,
-			"anim": "singRIGHT",
+			"anim": "singLEFT",
 			"fps": 24,
 			"name": "XRight",
 			"indices": []

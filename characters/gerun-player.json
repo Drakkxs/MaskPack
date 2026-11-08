@@ -168,7 +168,7 @@
 	"image": "characters/gerun",
 	"position": [
 		-160,
-		-340
+		-420
 	],
 	"speaker": null,
 	"healthicon": "gerunplay",
@@ -184,5 +184,5 @@
 	],
 	"sing_duration": 7.99999999999999,
 	"dead_character": null,
-	"scale": 0.9
+	"scale": 1
 }

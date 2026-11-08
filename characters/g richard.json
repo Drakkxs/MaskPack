@@ -28,7 +28,7 @@
 				-1,
 				90
 			],
-			"anim": "singLEFT",
+			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "sing left",
 			"indices": []
@@ -39,7 +39,7 @@
 				49,
 				56
 			],
-			"anim": "singRIGHT",
+			"anim": "singLEFT",
 			"fps": 24,
 			"name": "sing right",
 			"indices": []

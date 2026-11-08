@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-11,
 				-1
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				226,
 				-262
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 30,
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-32,
 				-31
 			],
-			"loop": false,
+			"anim": "singRIGHT",
 			"fps": 30,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-68,
 				85
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 30,
+			"name": "sing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				147,
 				-102
 			],
-			"loop": false,
+			"anim": "singLEFT",
 			"fps": 30,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-11,
-				-1
-			],
-			"anim": "idle-alt",
-			"fps": 24,
-			"name": "aidle",
+			"name": "sing right",
 			"indices": []
 		},
 		{
 			"offsets": [
+				-11,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "aidle"
+		},
+		{
+			"loop": false,
+			"offsets": [
 				-4,
 				-20
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "asing down"
+			"fps": 30,
+			"name": "asing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-22,
 				-13
 			],
-			"loop": false,
+			"anim": "singRIGHT-alt",
 			"fps": 30,
-			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "asing left"
+			"name": "asing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-8,
 				39
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "asing up"
+			"fps": 30,
+			"name": "asing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				163,
 				-48
 			],
-			"loop": false,
+			"anim": "singLEFT-alt",
 			"fps": 30,
-			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "asing right"
+			"name": "asing right",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -133,5 +133,5 @@
 	],
 	"sing_duration": 5,
 	"dead_character": null,
-	"scale": 0.9
+	"scale": 1
 }

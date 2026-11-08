@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				34,
 				-142
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				46,
 				10
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-3,
 				-39
 			],
-			"loop": false,
+			"anim": "singRIGHT",
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing right"
+			"name": "sing right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				123,
 				-11
 			],
-			"loop": false,
+			"anim": "singLEFT",
 			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing left"
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				25,
 				-9
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "taunt",
-			"indices": [],
-			"name": "laugh"
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -73,7 +73,7 @@
 	"image": "characters/pinka",
 	"position": [
 		50,
-		-10
+		-100
 	],
 	"speaker": null,
 	"healthicon": "icon-pinka play",
@@ -89,5 +89,5 @@
 	],
 	"sing_duration": 6.1,
 	"dead_character": null,
-	"scale": 0.7
+	"scale": 1
 }

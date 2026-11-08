@@ -29,7 +29,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "singRIGHT",
 			"indices": [],
 			"name": "sing left"
 		},
@@ -51,7 +51,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT",
+			"anim": "singLEFT",
 			"indices": [],
 			"name": "sing right"
 		},
@@ -84,7 +84,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN-alt",
+			"anim": "singLEFT-alt",
 			"indices": [],
 			"name": "sing dowh"
 		},
@@ -95,7 +95,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT-alt",
+			"anim": "singRIGHT-alt",
 			"indices": [],
 			"name": "sing lefh"
 		},
@@ -117,7 +117,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT-alt",
+			"anim": "singLEFT-alt",
 			"indices": [],
 			"name": "sing righh"
 		},

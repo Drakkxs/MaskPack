@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-10,
 				0
 			],
-			"anim": "idle",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-29,
 				-154
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 22,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-47,
 				45
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 22,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-49,
 				-62
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 22,
-			"name": "sing left",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				112,
 				-101
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 22,
-			"name": "sing right",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing right"
 		}
 	],
 	"vocals_file": null,
@@ -62,7 +62,7 @@
 	"image": "characters/past pinka",
 	"position": [
 		-70,
-		10
+		-40
 	],
 	"speaker": null,
 	"healthicon": "icon-pinka",
@@ -78,5 +78,5 @@
 	],
 	"sing_duration": 6.1,
 	"dead_character": null,
-	"scale": 0.8
+	"scale": 1
 }

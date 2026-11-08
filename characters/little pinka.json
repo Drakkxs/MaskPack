@@ -6,7 +6,7 @@
 				-88,
 				-94
 			],
-			"anim": "singLEFT",
+			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "sing left",
 			"indices": []
@@ -39,7 +39,7 @@
 				154,
 				-140
 			],
-			"anim": "singRIGHT",
+			"anim": "singLEFT",
 			"fps": 24,
 			"name": "sing right",
 			"indices": []
@@ -50,7 +50,7 @@
 				-83,
 				-101
 			],
-			"anim": "singLEFTmiss",
+			"anim": "singRIGHTmiss",
 			"fps": 24,
 			"name": "left miss",
 			"indices": []
@@ -83,7 +83,7 @@
 				121,
 				-142
 			],
-			"anim": "singRIGHTmiss",
+			"anim": "singLEFTmiss",
 			"fps": 24,
 			"name": "right miss",
 			"indices": []

@@ -39,7 +39,7 @@
 				70,
 				-3
 			],
-			"anim": "singRIGHT",
+			"anim": "singLEFT",
 			"fps": 24,
 			"name": "Right",
 			"indices": []
@@ -50,7 +50,7 @@
 				-69,
 				10
 			],
-			"anim": "singLEFT",
+			"anim": "singRIGHT",
 			"fps": 24,
 			"name": "Left",
 			"indices": []
@@ -95,7 +95,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singRIGHT-alt",
+			"anim": "singLEFT-alt",
 			"indices": [],
 			"name": "aRight"
 		},
@@ -106,7 +106,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT-alt",
+			"anim": "singRIGHT-alt",
 			"indices": [],
 			"name": "aLeft"
 		}

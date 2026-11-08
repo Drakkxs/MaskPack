@@ -1,58 +1,57 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				-146,
 				-340
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-130,
 				-130
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-197,
 				-186
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-42,
 				-188
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-3,
 				-153
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 16,
-			"name": "idle",
+			"anim": "danceLeft",
 			"indices": [
 				0,
 				1,
@@ -61,17 +60,17 @@
 				4,
 				5,
 				6
-			]
+			],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-3,
 				-152
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 16,
-			"name": "idle",
+			"anim": "danceRight",
 			"indices": [
 				7,
 				8,
@@ -81,7 +80,8 @@
 				12,
 				13,
 				14
-			]
+			],
+			"name": "idle"
 		}
 	],
 	"vocals_file": null,
@@ -90,7 +90,7 @@
 	"image": "characters/rick",
 	"position": [
 		-140,
-		-200
+		-230
 	],
 	"speaker": null,
 	"healthicon": "icon-rick",
@@ -106,5 +106,5 @@
 	],
 	"sing_duration": 6.1,
 	"dead_character": null,
-	"scale": 0.9
+	"scale": 1
 }

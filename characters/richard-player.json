@@ -1,92 +1,92 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-139,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-46,
 				-178
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "sing down"
+			"fps": 24,
+			"name": "sing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-207,
 				32
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "sing up"
+			"fps": 24,
+			"name": "sing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-208,
 				-34
 			],
-			"loop": false,
+			"anim": "singRIGHT",
 			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "sing left"
+			"name": "sing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-61,
 				-59
 			],
-			"loop": false,
+			"anim": "singLEFT",
 			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "sing right"
+			"name": "sing right",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-188,
 				7
 			],
-			"anim": "afraid",
+			"loop": false,
 			"fps": 24,
-			"name": "afraid",
-			"indices": []
+			"anim": "afraid",
+			"indices": [],
+			"name": "afraid"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-243,
 				-17
 			],
-			"anim": "ready",
+			"loop": false,
 			"fps": 24,
-			"name": "ready",
-			"indices": []
+			"anim": "ready",
+			"indices": [],
+			"name": "ready"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-26,
 				9
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "shoot",
-			"indices": [],
-			"name": "shoot"
+			"fps": 30,
+			"name": "shoot",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -95,7 +95,7 @@
 	"image": "characters/richard",
 	"position": [
 		-190,
-		-80
+		-120
 	],
 	"speaker": null,
 	"healthicon": "icon-richard",
@@ -111,5 +111,5 @@
 	],
 	"sing_duration": 6.1,
 	"dead_character": null,
-	"scale": 0.8
+	"scale": 1
 }

@@ -1,114 +1,114 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-11,
 				-1
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "idle",
-			"indices": [],
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-24,
 				-262
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 30,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				108,
 				-31
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 30,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				32,
 				85
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 30,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				57,
 				-102
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 30,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-11,
 				-1
 			],
-			"anim": "idle-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "aidle",
-			"indices": []
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "aidle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-4,
 				-20
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "singDOWN-alt",
-			"indices": [],
-			"name": "asing down"
+			"fps": 30,
+			"name": "asing down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				38,
 				-13
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "singLEFT-alt",
-			"indices": [],
-			"name": "asing left"
+			"fps": 30,
+			"name": "asing left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-8,
 				39
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "singUP-alt",
-			"indices": [],
-			"name": "asing up"
+			"fps": 30,
+			"name": "asing up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-17,
 				-48
 			],
-			"loop": false,
-			"fps": 30,
 			"anim": "singRIGHT-alt",
-			"indices": [],
-			"name": "asing right"
+			"fps": 30,
+			"name": "asing right",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -117,7 +117,7 @@
 	"image": "characters/yararara teto,characters/yararara teto2",
 	"position": [
 		-30,
-		20
+		-10
 	],
 	"speaker": null,
 	"healthicon": "icon-yararara-teto",
@@ -133,5 +133,5 @@
 	],
 	"sing_duration": 5,
 	"dead_character": null,
-	"scale": 0.9
+	"scale": 1
 }

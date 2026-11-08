@@ -1,14 +1,13 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				61,
 				-278
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
+			"anim": "danceLeft",
 			"indices": [
 				11,
 				12,
@@ -21,61 +20,61 @@
 				19,
 				20,
 				21
-			]
+			],
+			"name": "idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-26,
 				-361
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing right",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "sing right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-26,
 				-382
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "sing down",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sing down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				186,
 				-295
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "sing left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "sing left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				338,
 				-239
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "sing up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "sing up"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				62,
 				-279
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 24,
-			"name": "idle",
+			"anim": "danceRight",
 			"indices": [
 				1,
 				2,
@@ -87,18 +86,19 @@
 				8,
 				9,
 				10
-			]
+			],
+			"name": "idle"
 		},
 		{
+			"loop": false,
 			"offsets": [
 				37,
 				-275
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "liveReaction",
-			"indices": [],
-			"name": "what"
+			"fps": 24,
+			"name": "what",
+			"indices": []
 		}
 	],
 	"vocals_file": null,
@@ -123,5 +123,5 @@
 	],
 	"sing_duration": 7,
 	"dead_character": null,
-	"scale": 0.9
+	"scale": 1
 }
