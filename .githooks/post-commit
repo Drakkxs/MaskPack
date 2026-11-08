@@ -1,25 +1,25 @@
 #!/bin/sh
 
-# 1. Ask Git directly for the absolute path of the project root
 REPO_ROOT=$(git rev-parse --show-toplevel)
-
-# 2. Extract the clean folder name (e.g., MaskPack)
 PROJECT_NAME=$(basename "$REPO_ROOT")
 
-# 3. Print debugging details to the console during commit
-echo ""
-echo "----------------------------------------"
-echo "[Post-Commit] Project Name: $PROJECT_NAME"
-echo "[Post-Commit] Target Zip:   ${PROJECT_NAME}.zip"
-echo "----------------------------------------"
+# 1. Generate the release zip archive
+git archive --format=zip --output="${REPO_ROOT}/${PROJECT_NAME}.zip" HEAD
 
-# 4. Generate the archive
-git archive --format=zip --output="${PROJECT_NAME}.zip" HEAD
+# 2. Generate the release notes from the last tag to HEAD
+PREV_TAG=$(git describe --tags --abbrev=0 HEAD~1 2>/dev/null)
+CHANGELOG_FILE="${REPO_ROOT}/${PROJECT_NAME}-changelog.txt"
 
-# 5. Print success or failure status
-if [ $? -eq 0 ]; then
-    echo "[SUCCESS] Archive created successfully!"
+echo "Changelog for ${PROJECT_NAME}" > "$CHANGELOG_FILE"
+echo "================================" >> "$CHANGELOG_FILE"
+echo "" >> "$CHANGELOG_FILE"
+
+if [ -n "$PREV_TAG" ]; then
+    echo "Changes since ${PREV_TAG}:" >> "$CHANGELOG_FILE"
+    echo "" >> "$CHANGELOG_FILE"
+    git log "${PREV_TAG}..HEAD" --pretty=format:"- %s" >> "$CHANGELOG_FILE"
 else
-    echo "[ERROR] Failed to create zip archive."
+    echo "Recent commits:" >> "$CHANGELOG_FILE"
+    echo "" >> "$CHANGELOG_FILE"
+    git log -n 15 --pretty=format:"- %s" >> "$CHANGELOG_FILE"
 fi
-echo ""
